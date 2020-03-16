@@ -387,9 +387,6 @@ body{
 
 }
 
-/* @media screen and (prefers-reduced-motion: reduce){
-  animation: none;
-} */
 
 @media (prefers-reduced-motion: reduce) {
   .parallax {
