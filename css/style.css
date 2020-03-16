@@ -297,6 +297,13 @@ h2 {
   padding-top: 300px;
 }
 
+.thankyou{
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
 footer{
   position: fixed;
   left: 0;
