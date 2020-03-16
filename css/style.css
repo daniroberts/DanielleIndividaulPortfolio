@@ -66,14 +66,18 @@ nav li a:hover {
   text-decoration: underline;
   color: black;
 }
-
 h1{
   font-size: 32px;
   text-align: center;
   color: black;
 }
+h2 {
+  font-size: 32px;
+  text-align: center;
+  color: black;
+}
 
-h1 {
+h2 {
   animation-duration: 3s;
   animation-name: slidein;
 }
